@@ -1,0 +1,10 @@
+# Working with a Forked Repository  
+
+When you fork a repository, you create a copy of it under your GitHub account. This allows you to make changes without affecting the original project.  
+
+## **Steps to Work with a Forked Repository**  
+
+### **1. Clone Your Fork**  
+After forking the repository, clone it to your local machine:  
+```sh
+https://github.com/MYLIFE2025/forked.git
